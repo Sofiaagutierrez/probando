@@ -1,0 +1,6 @@
+install.packages("tidyverse")
+library(tidyverse)
+install.packages("kableExtra")
+library(kableExtra)
+install.packages("knitr")
+library(knitr)
